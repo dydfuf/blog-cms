@@ -8,3 +8,5 @@ cover: /media/image (1).png
 category: 카, 테고, 리입니다
 ---
 바디 테스트
+
+![](/media/image%20(1).png)
